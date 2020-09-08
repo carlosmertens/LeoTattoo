@@ -1,0 +1,24 @@
+.bg-gray {
+    background: #e0dfd8 !important
+}
+
+.profile-custom {
+    padding-bottom: 80px;
+}
+
+.module {
+    background: #faf9f9;
+}
+
+.module.about {
+    padding: 65px 0 0;
+}
+
+.modal-body input, 
+.modal-body textarea {
+    background: white;
+}
+
+h2{
+color: black;
+margin-top: 40px}
